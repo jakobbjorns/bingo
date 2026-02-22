@@ -48,6 +48,8 @@
     justify-content: center;
     text-align: center;
     container-type: inline-size;
+    font-size: x-small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .game-tile>p {
